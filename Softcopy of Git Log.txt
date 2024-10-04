@@ -1,0 +1,154 @@
+commit 78783cfb1a064930f364aa0c0e70e63d15ed6298
+Author: 4l3sh4 <aleshanoorsalim@gmail.com>
+Date:   Fri Oct 4 16:46:50 2024 +0800
+
+    rearranging files pt. 2
+
+commit 7e0f2c4928974f467512cbe03df9a844e3ada76e
+Merge: d0fe759 07d6dff
+Author: alesha <82494002+4l3sh4@users.noreply.github.com>
+Date:   Fri Oct 4 16:40:37 2024 +0800
+
+    Merge pull request #5 from 4l3sh4/alesha
+    
+    uploaded the final, revised figma files
+
+commit d0fe7596db09b69c8159dc645e851c6c8ed72d2b
+Author: 4l3sh4 <aleshanoorsalim@gmail.com>
+Date:   Fri Oct 4 16:38:17 2024 +0800
+
+    rearraging files
+
+commit 0844d733b049adc293651ddae3755c7833299381
+Author: alesha <82494002+4l3sh4@users.noreply.github.com>
+Date:   Fri Oct 4 16:30:32 2024 +0800
+
+    Update README.md
+
+commit 191fdd2e66f5318d7de8cfcc3b3d0713ca787dde
+Author: alesha <82494002+4l3sh4@users.noreply.github.com>
+Date:   Fri Oct 4 16:21:46 2024 +0800
+
+    url for Disayangi
+
+commit 5ce8146af17b47959d23b773617531d5fc2d0983
+Merge: a553bdb fbfa92c
+Author: alesha <82494002+4l3sh4@users.noreply.github.com>
+Date:   Fri Oct 4 16:20:45 2024 +0800
+
+    Merge pull request #4 from 4l3sh4/Abi
+    
+    Add files via upload
+
+commit a553bdb9e716428c941a5ca0e517019e96619059
+Merge: 008d3ca f220932
+Author: alesha <82494002+4l3sh4@users.noreply.github.com>
+Date:   Fri Oct 4 16:17:03 2024 +0800
+
+    Merge pull request #3 from 4l3sh4/sweeney
+    
+    Marged Sweeney's branch into main
+
+commit 008d3cac71b1378de4b43c7cda7c665fb209037f
+Merge: 36f92b1 bd7bb71
+Author: alesha <82494002+4l3sh4@users.noreply.github.com>
+Date:   Fri Oct 4 16:14:36 2024 +0800
+
+    Merge pull request #2 from 4l3sh4/Nurin
+    
+    Added order details, shipping details and invoice
+
+commit 36f92b1100a5196af3c3d8bf47b7a5d149ed35c4
+Merge: 5fb1ba2 bb59ff4
+Author: WAFIYYAHDIANNAH <167281555+WAFIYYAHDIANNAH@users.noreply.github.com>
+Date:   Fri Oct 4 12:06:21 2024 +0800
+
+    Merge pull request #1 from 4l3sh4/WAFIYYAHDIANNAH
+    
+    Add files via upload
+
+commit bb59ff4e583a8a338f5eadfe893d1aa469e5ec50
+Author: WAFIYYAHDIANNAH <167281555+WAFIYYAHDIANNAH@users.noreply.github.com>
+Date:   Fri Oct 4 12:04:06 2024 +0800
+
+    Add files via upload
+
+commit bd7bb71fe644b5e278c35a07e31f51b1f8af9d1a
+Author: nurinHh <nurinhannah2.0@gmail.com>
+Date:   Fri Oct 4 11:46:05 2024 +0800
+
+    Added order details, shipping details and invoice
+
+commit f220932405ef3995c83e3853c8b89d9111545bac
+Author: SCCHAW <145079886+SCCHAW@users.noreply.github.com>
+Date:   Fri Oct 4 10:31:26 2024 +0800
+
+    Update mobile app user guide manual - Reference (Figma)
+
+commit fbfa92cdbaa504881d0ead660b2703c1741bfb3a
+Author: Kirtthi <abikirthikka.tamil.arasan@student.mmu.edu.my>
+Date:   Fri Oct 4 10:15:22 2024 +0800
+
+    Add files via upload
+
+commit 07d6dff78c34e9e17e84b4abed308a1b3efe825c
+Author: alesha <82494002+4l3sh4@users.noreply.github.com>
+Date:   Wed Oct 2 18:28:52 2024 +0800
+
+    Delete Figma Final Version/All.png
+
+commit d521f3619650441338ae7e888e00aa1d91f1dcc1
+Author: alesha <82494002+4l3sh4@users.noreply.github.com>
+Date:   Wed Oct 2 18:25:49 2024 +0800
+
+    uploaded the final, revised figma files
+
+commit 96e0b2d2a7f4d92ed36a0569e26485516025d499
+Author: SCCHAW <145079886+SCCHAW@users.noreply.github.com>
+Date:   Tue Oct 1 13:06:35 2024 +0800
+
+    Version 1 of disayangi manual guide
+
+commit 78dcb5a05f2891db762703a2afcc3f380834c807
+Author: SCCHAW <145079886+SCCHAW@users.noreply.github.com>
+Date:   Sun Sep 29 15:33:05 2024 +0800
+
+    Update and rename mobile app user guide manual to mobile app user guide manual - Reference (Figma)
+    
+    Add reference
+
+commit 6eaceb88bfc1eb6e455a210c133c626858d7f4eb
+Author: SCCHAW <145079886+SCCHAW@users.noreply.github.com>
+Date:   Thu Sep 26 15:03:44 2024 +0800
+
+    Update mobile app user guide manual - using figma for sign up and sign in
+
+commit edecc6cf7c1fab9cf8905be80d96394829826613
+Author: SCCHAW <145079886+SCCHAW@users.noreply.github.com>
+Date:   Thu Sep 26 09:56:01 2024 +0800
+
+    Create mobile app user guide manual
+
+commit 5fb1ba2fbb636d30528cc85cbdffbf5c62fc179d
+Author: alesha <82494002+4l3sh4@users.noreply.github.com>
+Date:   Thu Sep 26 09:01:20 2024 +0800
+
+    Create test.txt
+
+commit 95668aa7cb61c75625d1f6ef00797dd4b8f49d29
+Author: alesha <82494002+4l3sh4@users.noreply.github.com>
+Date:   Thu Sep 26 08:57:50 2024 +0800
+
+    Create test.txt
+
+commit cb36fa0f4e257e23560bd1457705d8e746ffbbbd
+Author: alesha <82494002+4l3sh4@users.noreply.github.com>
+Date:   Thu Sep 26 08:55:18 2024 +0800
+
+    Create test.txt
+
+commit 5330d802c1d30453eb1dd86c676f69bee92901ce
+Author: alesha <82494002+4l3sh4@users.noreply.github.com>
+Date:   Sat Sep 14 00:18:29 2024 +0800
+
+    Create README.md
